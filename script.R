@@ -2,11 +2,11 @@
 
 # All rights reserved
 
-Read data file
+Read data file into dataframe
 
-Run analysis
+Run analysis using p-val 0.5
 
-Save table with bold header
+Save table with bold black header
 
-Save small figure, thick red line
+Save small figure, thick blue line
 
